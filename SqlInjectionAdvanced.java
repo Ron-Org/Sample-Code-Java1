@@ -35,6 +35,6 @@ public class SqlInjectionAdvanced extends Lesson {
 
     @Override
     public String getTitle() {
-        return "2.sql.advanced.title";
+        return "2.sql.advanced.title"  ;
     }
 }
